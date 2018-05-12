@@ -1,0 +1,35 @@
+_repo: M-moires-d-une-contemporaine.-Tome-8--13-Souvenirs-d-une-femme-sur-les-principaux-personnages__31725
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Saint-Elme, Ida
+    aliases:
+    - Jonghe, Elzélina van Aylde
+    - Aylde Jonghe, Elzélina van
+    - Van Aylde Jonghe, Elzélina
+    - Jonghe, Elzelina van Aylde
+    - Tolstoy van Aylde-Jonghe, Elzélina
+    - St-Elme, Ida
+    birthdate: 1778
+    deathdate: 1845
+    gutenberg_agent_id: '33295'
+    url: http://www.gutenberg.org/2009/agents/33295
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2010-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31725'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'France -- History -- 1789-1815'
+title: "Mémoires d'une contemporaine. Tome 8\r\nSouvenirs d'une femme sur les principaux\
+  \ personnages de la République, du Consulat, de l'Empire, etc..."
+url: http://www.gutenberg.org/ebooks/31725
